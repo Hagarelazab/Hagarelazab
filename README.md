@@ -1,16 +1,22 @@
-## Hi there 👋
+# Class Ib Assignment – AI_Omics_Internship_2025
 
-<!--
-**Hagarelazab/Hagarelazab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project was completed as part of the AI_Omics_Internship_2025 training.
 
-Here are some ideas to get you started:
+## Task Summary
+- Load patient dataset
+- Clean and preprocess the data
+- Convert character variables to appropriate types
+- Create binary variable for smoking status (1 = Yes, 0 = No)
+- Save cleaned dataset and R workspace
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Files
+- `class_Ib.R`: Script used for data processing
+- `Hagar_Class_Ib_Assignment.RData`: R workspace file containing environment
+- `patient_info_clean.csv`: Cleaned dataset (available in `clean_data` folder)
+
+## Skills Used
+- R Programming
+- Data Cleaning
+- Factor conversion
+
+*Prepared by Hagar Elazab*
